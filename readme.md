@@ -20,6 +20,16 @@ npx sitemaps-compare
 ## Usage
 
 ```sh
+npx sitemaps-compare
+
+# 1. Enter old and new sitemaps URLs.
+# 2. The CLI will convert them to files with URLs called old.md and new.md
+# 3. Use VSCode to diff the files using
+code old.md new.md --diff
+```
+All the help stuff.
+
+```sh
  USAGE
 
   $ sitemaps-compare <command> [option]
