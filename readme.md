@@ -16,6 +16,7 @@
 
 ```sh
 npx sitemaps-compare
+```
 
 <br>
 
