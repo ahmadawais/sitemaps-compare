@@ -32,11 +32,28 @@ I have released a video course to help you build <a href="https://NodeCLI.com/?u
 
 <br>
 
+### RELEASE: [1.0.2](https://github.com/ahmadawais/sitemaps-compare/compare/1.0.1...1.0.2)
+
+![📦 NEW:](https://img.shields.io/badge/-NEW-gray.svg?colorB=3778FF)
+
+> 📦 Conduct [`2e53147`](https://github.com/ahmadawais/sitemaps-compare/commit/2e5314793b0da7a02036c825b5ea0926285b1fed) <br>
+
+![🐛 FIX:](https://img.shields.io/badge/-FIX-gray.svg?colorB=ff6347)
+
+> 🐛 Extra files [`c337a52`](https://github.com/ahmadawais/sitemaps-compare/commit/c337a527ffa5d72b64251669689874049de71998) <br>
+
+<br>
+
+[![hr](https://raw.githubusercontent.com/ahmadawais/stuff/master/images/git/hr.png)](/)
+
+<br>
+
 ### RELEASE: [1.0.1](https://github.com/ahmadawais/sitemaps-compare/compare/1.0.0...1.0.1)
 
 ![📖 DOC:](https://img.shields.io/badge/-DOCS-gray.svg?colorB=978CD4)
 
 > 📖 Init [`a1b91c9`](https://github.com/ahmadawais/sitemaps-compare/commit/a1b91c969d30556a0c9cf6c9dbb521e86550dd68) <br>
+> 📖 Changelog [`425f330`](https://github.com/ahmadawais/sitemaps-compare/commit/425f330996df968898f641ad2e984ea61e2430f6) <br>
 > 📖 What and how [`84a8d4c`](https://github.com/ahmadawais/sitemaps-compare/commit/84a8d4cd3698fb42f76f8d0c09e88719ec8bfcbe) <br>
 
 <br>
