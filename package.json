@@ -1,7 +1,7 @@
 {
 	"name": "sitemaps-compare",
 	"description": "Compare two sitemaps by converting them to files with URLs and VSCode",
-	"version": "1.0.3",
+	"version": "1.0.4",
 	"license": "UNLICENSED",
 	"bin": {
 		"sitemaps-compare": "index.js"
