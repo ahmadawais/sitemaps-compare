@@ -1,9 +1,0 @@
-https://rapidapi.com/comics
-https://rapidapi.com/comics/api
-https://rapidapi.com/comics/api-vs-microservices
-https://rapidapi.com/comics/dns
-https://rapidapi.com/comics/http-cookie
-https://rapidapi.com/comics/http-methods
-https://rapidapi.com/comics/rest-api
-https://rapidapi.com/comics/sync-vs-async
-https://rapidapi.com/comics/webhooks
