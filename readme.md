@@ -2,7 +2,9 @@
 [![DOWNLOADS](https://img.shields.io/npm/dt/sitemaps-compare?label=DOWNLOADS%20%20❯&colorA=81F096&colorB=81F096&style=flat)](https://www.npmjs.com/package/sitemaps-compare) [![Node.js CLI](https://img.shields.io/badge/-NodeCLI.com-gray.svg?colorB=81F096&style=flat)](https://NodeCLI.com/?utm_source=FOSS) [![Learn VSCode](https://img.shields.io/badge/-VSCODE.pro-gray.svg?colorB=81F096&style=flat)](https://VSCode.pro/?utm_source=FOSS) [![Sponsor](https://img.shields.io/badge/-Sponsor-gray.svg?colorB=81F096&style=flat)](https://github.com/ahmadawais/sponsor?utm_source=FOSS)
 [![Follow @MrAhmadAwais on Twitter](https://img.shields.io/badge/FOLLOW%20@MRAHMADAWAIS%20%E2%86%92-gray.svg?colorA=81F096&colorB=81F096&style=flat)](https://twitter.com/mrahmadawais/)
 > CLI to compare two sitemaps by converting them to files with URLs and VSCode
+
 <br>
+
 - 🔗 Convert old and new sitemaps to files with URLs
 - 🌐 Use VSCode to diff the files
 
@@ -11,12 +13,14 @@
 [![📟](https://raw.githubusercontent.com/ahmadawais/stuff/master/images/git/install.png)](./../../)
 
 ## Install
+
 ```sh
 npx sitemaps-compare
-```
+
 <br>
 
 [![⚙️](https://raw.githubusercontent.com/ahmadawais/stuff/master/images/git/usage.png)](./../../)
+
 ## Usage
 
 ```sh
@@ -52,7 +56,7 @@ All the help stuff.
 
 [![📝](https://raw.githubusercontent.com/ahmadawais/stuff/master/images/git/log.png)](changelog.md)
 ## Changelog
-[❯ Read the changelog here →](changelog.md)
+
 <br>
 <small>**KEY**: `📦 NEW`, `👌 IMPROVE`, `🐛 FIX`, `📖 DOC`, `🚀 RELEASE`, and `🤖 TEST`
 > _I use [Emoji-log](https://github.com/ahmadawais/Emoji-Log), you should try it and simplify your git commits._
@@ -78,7 +82,7 @@ All the help stuff.
     <p><a href="https://www.youtube.com/AhmadAwais"><img alt="YouTube AhmadAwais" align="center" src="https://img.shields.io/badge/YOUTUBE-gray.svg?colorB=ff0000&style=flat" /></a>&nbsp;<small><strong>(subscribe)</strong> To tech talks & #OneDevMinute videos</small></p>
     <p><a href="https://AhmadAwais.com/"><img alt="Blog: AhmadAwais.com" align="center" src="https://img.shields.io/badge/MY%20BLOG-gray.svg?colorB=4D2AFF&style=flat" /></a>&nbsp;<small><strong>(read)</strong> In-depth & long form technical articles</small></p>
     <p><a href="https://www.linkedin.com/in/MrAhmadAwais/"><img alt="LinkedIn @MrAhmadAwais" align="center" src="https://img.shields.io/badge/LINKEDIN-gray.svg?colorB=0077b5&style=flat" /></a>&nbsp;<small><strong>(connect)</strong> On the LinkedIn profile y'all</small></p>
-</div>
+
 <br>
 
 [![👌](https://raw.githubusercontent.com/ahmadawais/stuff/master/images/git/sponsor.png)](https://github.com/AhmadAwais/sponsor)
